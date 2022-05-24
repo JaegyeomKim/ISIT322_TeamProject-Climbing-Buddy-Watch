@@ -5,10 +5,16 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/save_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="STOP" />
+        android:text="SAVE" />
+
+    <Button
+        android:id="@+id/reset_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RESET" />
 
     <EditText
         android:id="@+id/editTextTime"
@@ -18,4 +24,5 @@
         android:inputType="time"
         android:text="00:00:00"
         android:textAlignment="center" />
+
 </LinearLayout>

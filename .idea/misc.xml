@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/besta/Desktop/322/repos/Climbing-Buddy-Watch/app/src/main/res/layout/activity_main.xml" value="1.2753623188405796" />
+        <entry key="..\:/Users/besta/Desktop/322/repos/Climbing-Buddy-Watch/app/src/main/res/layout/fragment_home_screen.xml" value="1.65625" />
+        <entry key="..\:/Users/besta/Desktop/322/repos/Climbing-Buddy-Watch/app/src/main/res/layout/fragment_reset_save_screen.xml" value="0.8125" />
+        <entry key="..\:/Users/besta/Desktop/322/repos/Climbing-Buddy-Watch/app/src/main/res/layout/fragment_start_screen.xml" value="0.8125" />
+        <entry key="..\:/Users/besta/Desktop/322/repos/Climbing-Buddy-Watch/app/src/main/res/layout/fragment_stop_screen.xml" value="0.8125" />
         <entry key="..\:/Users/besta/Desktop/322/repos/Climbing-Buddy-Watch/app/src/main/res/layout/save_reset_screen.xml" value="1.2753623188405796" />
         <entry key="..\:/Users/besta/Desktop/322/repos/Climbing-Buddy-Watch/app/src/main/res/layout/start_screen.xml" value="1.2753623188405796" />
         <entry key="..\:/Users/besta/Desktop/322/repos/Climbing-Buddy-Watch/app/src/main/res/layout/stop_screen.xml" value="1.2753623188405796" />
